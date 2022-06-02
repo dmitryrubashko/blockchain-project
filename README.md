@@ -4,5 +4,5 @@
 ## 2) truffle build
 ## 3) truffle migrate
 ## 4) truffle console
-## 5) const message = await Message.deployed()
-## 6) message.sayHelloWorld()
+## 5) const message = await Message.deployed
+## 6) message.sayHelloWorld
