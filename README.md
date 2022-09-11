@@ -1,8 +1,10 @@
-# blockchain-project
+# Blockchain Project (smart contracts creating)
 
-## 1) truffle init
-## 2) truffle build
-## 3) truffle migrate
-## 4) truffle console
-## 5) const message = await Message.deployed
-## 6) message.sayHelloWorld
+> To create a bare Truffle project with no smart contracts included, use
+> `truffle init`
+
+> For compiling your contract use
+> `truffle build`
+
+> To deploy contract to the Ethereum network run
+> `truffle migrate`
